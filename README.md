@@ -19,6 +19,7 @@ Citation
       note = {DOI: 10.1109/TGRS.2022.3203075}
     }
     
-    How to use it?
+    
+How to use it?
 ---------------------
 python demo.py --dataset='farmland'
